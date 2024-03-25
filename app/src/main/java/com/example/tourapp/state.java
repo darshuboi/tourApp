@@ -26,6 +26,7 @@ public class state extends AppCompatActivity implements selectListener {
 
         String[] state = getResources().getStringArray(R.array.state);
 
+
         for (int i = 0; i < state.length; i++) {
             items.add(new itemState(String.valueOf(i),state[i], R.drawable.img));
         }
