@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="170dp"
+    android:layout_height="250dp"
+    android:layout_margin="20dp"
+    android:id="@+id/main_container">
+
+    <TextView
+        android:id="@+id/stateID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="State ID"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="5dp"/>
+
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageview"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:tooltipText="state Image" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="57dp"
+        android:text="Name"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

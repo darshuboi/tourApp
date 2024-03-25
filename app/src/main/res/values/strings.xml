@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">tourApp</string>
+    <string-array name="state">
+        <item>Gujarat</item>
+        <item>Mahrastra</item>
+        <item>Mumbai</item>
+        <item>Keral</item>
+    </string-array>
+    <string-array name="Gujarat">
+        <item>tajMahel0</item>
+        <item>LalKilla0</item>
+    </string-array>
+    <string-array name="Mahrastra">
+        <item>tajMahel1</item>
+        <item>LalKilla1</item>
+    </string-array>
+    <string-array name="Mumbai">
+        <item>tajMahel2</item>
+        <item>LalKilla2</item>
+    </string-array>
+    <string-array name="Keral">
+        <item>tajMahel3</item>
+        <item>LalKilla3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "830886498179",
+    "firebase_url": "https://tourapp-8886b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tourapp-8886b",
+    "storage_bucket": "tourapp-8886b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830886498179:android:3c70ac6260e0917556b0b6",
+        "android_client_info": {
+          "package_name": "com.example.tourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JD10P0jZy-aVHwUtGMcgdmG3741Noxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
